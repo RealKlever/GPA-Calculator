@@ -1,0 +1,24 @@
+Class: Programming Structures, Credit Hours: 4, Grade: B
+Class: English 1, Credit Hours: 3, Grade: A
+Class: Freshman Engineering Experience, Credit Hours: 1, Grade: A
+Class: Calculus 2, Credit Hours: 4, Grade: A
+
+Class: Data Structures, Credit Hours: 3, Grade: B
+Class: Discrete Structures, Credit Hours: 3, Grade: B
+Class: English 2, Credit Hours: 3, Grade: A
+Class: Calculus 3, Credit Hours: 4, Grade: A
+Class: Gateway to Belonging, Credit Hours: 3, Grade: A
+
+Class: Computer Organization, Credit Hours: 4, Grade: A
+Class: Principle of Programming Languages, Credit Hours: 3, Grade: A
+Class: Gods and Heroes in Art, Credit Hours: 3, Grade: B
+Class: Macro Economics, Credit Hours: 3, Grade: C
+Class: Professional Development, Credit Hours: 2, Grade: A
+Class: American Federal Government, Credit Hours: 3, Grade: A
+
+Class: Intro to Operating Systems, Credit Hours: 3, Grade: X
+Class: Software Engineering, Credit Hours: 3, Grade: X
+Class: Digital Design, Credit Hours: 4, Grade: X
+Class: United Stataes to 1865, Credit Hours: 3, Grade: X
+Class: Physics 1 Lab, Credit Hours: 1, Grade: X
+Class: Physics 1, Credit Hours: 4, Grade: X
